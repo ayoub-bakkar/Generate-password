@@ -26,7 +26,8 @@ A sleek, secure, and highly customizable password generator built with modern we
 
 ## 🖥️ Preview
 
-You can view the live demo here: [Insert your GitHub Pages Link Here]
+You can view the live demo here: [###]
 
 ---
 Developed by [Ayoub Bakkar] - 2026
+
